@@ -1,4 +1,4 @@
-from geojson import Feature, FeatureCollection, dump
+from geojson import Feature, Point, FeatureCollection, dump
 import requests, json
 
 features = []
